@@ -1,2 +1,3 @@
 # Crypto-Time-Series
-Bitcoin time series analysis and forecasting, 2022
+***
+Time series analysis and forecasting of **Bitcoin** close prices
